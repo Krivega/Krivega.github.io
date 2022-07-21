@@ -1,6 +1,6 @@
 {
-  "short_name": "Experiments",
-  "name": "Experiments",
+  "short_name": "User Media Api",
+  "name": "User Media Api Test",
   "icons": [
     {
       "src": "favicon.ico",
