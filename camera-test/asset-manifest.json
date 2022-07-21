@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/camera-test/static/js/main.69b32919.js",
+    "main.js": "/camera-test/static/js/main.b9dff1e9.js",
     "index.html": "/camera-test/index.html",
-    "main.69b32919.js.map": "/camera-test/static/js/main.69b32919.js.map"
+    "main.b9dff1e9.js.map": "/camera-test/static/js/main.b9dff1e9.js.map"
   },
   "entrypoints": [
-    "static/js/main.69b32919.js"
+    "static/js/main.b9dff1e9.js"
   ]
 }
