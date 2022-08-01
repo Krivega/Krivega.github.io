@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/video-processing/static/js/main.088c7ef3.js",
-    "static/js/522.24c54a92.chunk.js": "/video-processing/static/js/522.24c54a92.chunk.js",
-    "static/js/528.56515651.chunk.js": "/video-processing/static/js/528.56515651.chunk.js",
-    "static/js/946.9bb3ad38.chunk.js": "/video-processing/static/js/946.9bb3ad38.chunk.js",
+    "main.js": "/video-processing/static/js/main.8dcbd14f.js",
+    "static/js/522.f0f97954.chunk.js": "/video-processing/static/js/522.f0f97954.chunk.js",
+    "static/js/528.b91ad6f1.chunk.js": "/video-processing/static/js/528.b91ad6f1.chunk.js",
+    "static/js/946.c8c44b42.chunk.js": "/video-processing/static/js/946.c8c44b42.chunk.js",
     "static/js/166.516da002.chunk.js": "/video-processing/static/js/166.516da002.chunk.js",
     "static/js/434.664a5305.chunk.js": "/video-processing/static/js/434.664a5305.chunk.js",
     "static/media/mask1080p.jpg": "/video-processing/static/media/mask1080p.7dfbe713270b432ebbb4.jpg",
     "static/media/mask720p.jpg": "/video-processing/static/media/mask720p.3c7e78fbf17758a70b86.jpg",
     "static/media/mask360p.jpg": "/video-processing/static/media/mask360p.42d3774202b3d85b01a7.jpg",
     "index.html": "/video-processing/index.html",
-    "main.088c7ef3.js.map": "/video-processing/static/js/main.088c7ef3.js.map",
-    "522.24c54a92.chunk.js.map": "/video-processing/static/js/522.24c54a92.chunk.js.map",
-    "528.56515651.chunk.js.map": "/video-processing/static/js/528.56515651.chunk.js.map",
-    "946.9bb3ad38.chunk.js.map": "/video-processing/static/js/946.9bb3ad38.chunk.js.map",
+    "main.8dcbd14f.js.map": "/video-processing/static/js/main.8dcbd14f.js.map",
+    "522.f0f97954.chunk.js.map": "/video-processing/static/js/522.f0f97954.chunk.js.map",
+    "528.b91ad6f1.chunk.js.map": "/video-processing/static/js/528.b91ad6f1.chunk.js.map",
+    "946.c8c44b42.chunk.js.map": "/video-processing/static/js/946.c8c44b42.chunk.js.map",
     "166.516da002.chunk.js.map": "/video-processing/static/js/166.516da002.chunk.js.map",
     "434.664a5305.chunk.js.map": "/video-processing/static/js/434.664a5305.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.088c7ef3.js"
+    "static/js/main.8dcbd14f.js"
   ]
 }
