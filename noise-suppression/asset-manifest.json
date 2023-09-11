@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "noise-suppression/static/js/main.4cbcc1dd.js",
+    "index.html": "noise-suppression/index.html",
+    "main.4cbcc1dd.js.map": "noise-suppression/static/js/main.4cbcc1dd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4cbcc1dd.js"
+  ]
+}
